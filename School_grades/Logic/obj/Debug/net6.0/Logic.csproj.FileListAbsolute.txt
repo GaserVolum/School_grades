@@ -1,0 +1,15 @@
+C:\Users\Andrey\source\repos\School_grades\Logic\bin\Debug\net6.0\Logic.deps.json
+C:\Users\Andrey\source\repos\School_grades\Logic\bin\Debug\net6.0\Logic.dll
+C:\Users\Andrey\source\repos\School_grades\Logic\bin\Debug\net6.0\Logic.pdb
+C:\Users\Andrey\source\repos\School_grades\Logic\bin\Debug\net6.0\Data_model.dll
+C:\Users\Andrey\source\repos\School_grades\Logic\bin\Debug\net6.0\Data_model.pdb
+C:\Users\Andrey\source\repos\School_grades\Logic\obj\Debug\net6.0\Logic.csproj.AssemblyReference.cache
+C:\Users\Andrey\source\repos\School_grades\Logic\obj\Debug\net6.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\source\repos\School_grades\Logic\obj\Debug\net6.0\Logic.AssemblyInfoInputs.cache
+C:\Users\Andrey\source\repos\School_grades\Logic\obj\Debug\net6.0\Logic.AssemblyInfo.cs
+C:\Users\Andrey\source\repos\School_grades\Logic\obj\Debug\net6.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\School_grades\Logic\obj\Debug\net6.0\Logic.csproj.CopyComplete
+C:\Users\Andrey\source\repos\School_grades\Logic\obj\Debug\net6.0\Logic.dll
+C:\Users\Andrey\source\repos\School_grades\Logic\obj\Debug\net6.0\refint\Logic.dll
+C:\Users\Andrey\source\repos\School_grades\Logic\obj\Debug\net6.0\Logic.pdb
+C:\Users\Andrey\source\repos\School_grades\Logic\obj\Debug\net6.0\ref\Logic.dll
